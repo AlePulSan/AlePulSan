@@ -1,16 +1,13 @@
-## Hi there 👋
+# Alejandro Pulido Sánchez
 
-<!--
-**AlePulSan/AlePulSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Systems Validation -> AI Infrastructure & MLOps**
 
-Here are some ideas to get you started:
+Building the bridge between low-level algorithmic logic and production-ready Machine Learning pipelines. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack:
+*   **Infrastructure:** Python (Async/Multiprocessing), Pandas, Parquet, CUDA.
+*   **AI/ML:** RAG, LLM Orchestration, LangChain.
+*   **Validation:** C, CAN Bus, CI/CD, Automated Testing with Python.
+
+### Currently Focus:
+Building concurrent RAG systems and a native voxelization engine (Kinematic Engine).

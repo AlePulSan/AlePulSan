@@ -1,13 +1,13 @@
 # Alejandro Pulido Sánchez
 
-**Software Engineer | Systems Validation -> AI Infrastructure & MLOps**
+**Computer Engineer | AI & ML | Software Validation**
 
-Building the bridge between low-level algorithmic logic and production-ready Machine Learning pipelines. 
+My professional experience is in embedded software validation and data engineering. My primary technical interest and current focus is transitioning into Artificial Intelligence and Machine Learning infrastructure.
 
-### Stack:
-*   **Infrastructure:** Python (Async/Multiprocessing), Pandas, Parquet, CUDA.
-*   **AI/ML:** RAG, LLM Orchestration, LangChain.
-*   **Validation:** C, CAN Bus, CI/CD, Automated Testing with Python.
+### Tech Stack
+* **Languages:** Python, C, SQL, Bash.
+* **AI & Data:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Snowflake, LangChain, PromptFlow.
+* **Systems & Tools:** Linux, Git, GitLab CI/CD, CAN Bus, Automated Testing.
 
-### Currently Focus:
-Building concurrent RAG systems and a native voxelization engine (Kinematic Engine).
+### Current Focus
+Learning and researching AI Engineering and MLOps.

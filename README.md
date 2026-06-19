@@ -17,7 +17,7 @@ Learning and researching AI Engineering and MLOps.
 <table bordercolor="#30363d">
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/AlePulSan/JellyFlow-engine">🌊 JellyFlow Engine</a></b><br><br>
+      <b><a href="https://github.com/AlePulSan/JellyFlow-engine">JellyFlow Engine</a></b><br><br>
       A hybrid computer vision engine built to simulate optical fluid physics and real-time refraction. Strictly decouples OpenCV's CPU processing from heavy tensor math handled by PyTorch/CUDA.<br><br>
       <i>Python • PyTorch • OpenCV</i>
     </td>

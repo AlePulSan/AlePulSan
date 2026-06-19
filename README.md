@@ -12,7 +12,7 @@ My professional experience is in embedded software validation and data engineeri
 ### Current Focus
 Learning and researching AI Engineering and MLOps.
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table bordercolor="#30363d">
   <tr>
@@ -23,7 +23,7 @@ Learning and researching AI Engineering and MLOps.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AlePulSan/JellyFlow-engine">
-        <img src="https://raw.githubusercontent.com/AlePulSan/JellyFlow-engine/main/assets/NOMBRE_DE_TU_GIF.gif" width="100%" alt="JellyFlow Demo">
+        <img src="https://raw.githubusercontent.com/AlePulSan/JellyFlow-engine/main/assets/JellyFlow.gif" width="100%" alt="JellyFlow Demo">
       </a>
     </td>
   </tr>

@@ -27,4 +27,28 @@ Learning and researching AI Engineering and MLOps.
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/AlePulSan/Data-Mining-Systems">Data-Mining-Systems</a></b><br><br>
+      Technical repository focused on data mining and machine learning engineering. Features technical implementations of fundamental algorithms, modular processing pipelines, density-based clustering, and convolutional architectures.<br><br>
+      <i>Python • Scikit-Learn • PyTorch • Pandas</i>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AlePulSan/Data-Mining-Systems">
+        <img src="cluster.png" width="100%" alt="Data Mining Systems Visualization">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/AlePulSan/Machine-Learning-Algorithmic-Foundations">Machine-Learning-Algorithmic-Foundations</a></b><br><br>
+      Applied algorithmic foundations. Development of analytical and predictive models, including unsupervised feature extraction, spatial partition metrics evaluation, and recurrent architectures for time series forecasting.<br><br>
+      <i>Python • NumPy • SciPy • Matplotlib</i>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AlePulSan/Machine-Learning-Algorithmic-Foundations">
+        <img src="nn.svg" width="100%" alt="Machine Learning Foundations Visualization">
+      </a>
+    </td>
+  </tr>
 </table>

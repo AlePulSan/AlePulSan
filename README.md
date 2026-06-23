@@ -47,7 +47,7 @@ Learning and researching AI Engineering and MLOps.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AlePulSan/Machine-Learning-Algorithmic-Foundations">
-        <img src="nn.svg" width="100%" alt="Machine Learning Foundations Visualization">
+        <img src="nn.png" width="100%" alt="Machine Learning Foundations Visualization">
       </a>
     </td>
   </tr>

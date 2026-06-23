@@ -42,7 +42,7 @@ Learning and researching AI Engineering and MLOps.
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/AlePulSan/Machine-Learning-Algorithmic-Foundations">Machine-Learning-Algorithmic-Foundations</a></b><br><br>
-      Applied algorithmic foundations. Development of analytical and predictive models, including unsupervised feature extraction, spatial partition metrics evaluation, and recurrent architectures for time series forecasting.<br><br>
+      Applied algorithmic foundations. Development of analytical and predictive models, including information theory applied to decision trees, parametric discretization, and custom implementations of multi-layer perceptrons and support vector machines.<br><br>
       <i>Python • NumPy • SciPy • Matplotlib</i>
     </td>
     <td width="50%" valign="top">

@@ -22,7 +22,7 @@ Learning and researching AI Engineering and MLOps.
       <i>Python • FAISS • Ollama • Streamlit • Asyncio</i>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/AlePulSan/concurrent-quant-rag">
+      <a href="https://github.com/AlePulSan/concurrent_quant_rag">
         <img src="https://raw.githubusercontent.com/AlePulSan/concurrent_quant_rag\assets\snapshot.png" width="100%" alt="Concurrent Quant RAG Engine Snapshot">
       </a>
     </td>

@@ -23,7 +23,7 @@ Learning and researching AI Engineering and MLOps.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AlePulSan/concurrent-quant-rag">
-        <img src="https://raw.githubusercontent.com/AlePulSan/concurrent-quant-rag/main/assets/snapshot.png" width="100%" alt="Concurrent Quant RAG Engine Snapshot">
+        <img src="https://raw.githubusercontent.com/AlePulSan/concurrent_quant_rag\assets\snapshot.png" width="100%" alt="Concurrent Quant RAG Engine Snapshot">
       </a>
     </td>
   </tr>
